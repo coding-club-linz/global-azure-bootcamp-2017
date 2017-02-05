@@ -1,11 +1,11 @@
 ---
 layout: session
 page-category: session
-title: Logic Apps
-speaker: Roman Schacherl
-speaker-id: roman-schacherl
+title: Optimierung von Web APIs
+speaker: Raphael Schwarz
+speaker-id: raphael-schwarz
 room: TBD
-slot: S1400
+slot: S1500
 ---
 
 Detaillierte Sessionbeschreibung folgt...

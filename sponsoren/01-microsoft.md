@@ -1,7 +1,7 @@
 ---
 page-category: sponsor
 title: Microsoft (Gold Sponsor)
-image: /assets/logo-microsoft.jpg
+image: logo-microsoft.jpg
 ---
 
 **Microsoft Österreich GmbH**<br/>

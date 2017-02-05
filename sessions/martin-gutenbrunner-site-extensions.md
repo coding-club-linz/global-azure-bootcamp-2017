@@ -5,7 +5,7 @@ title: Azure Site Extensions – Die App hinter der App
 speaker: Martin Gutenbrunner
 speaker-id: martin-gutenbrunner
 room: TBD
-slot: S0900
+slot: S1400
 ---
 
 Azure App Services sind nicht nur ein sehr einfachere Weg, eine Anwendung zu deployen. Mit Site Extensions gibt es eine hervorragende Möglichkeit, administrative Erweiterungen, die von der eigentlichen Anwendung unabhängig sind, an der selben Stelle zu platzieren.

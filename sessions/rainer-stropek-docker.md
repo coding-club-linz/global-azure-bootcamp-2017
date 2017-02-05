@@ -5,7 +5,7 @@ title: Docker im Microsoft-Universum
 speaker: Rainer Stropek
 speaker-id: rainer-stropek
 room: TBD
-slot: S0900
+slot: S1500
 ---
 
 Linux-VMs mit Docker in Azure, die neuen Azure Container Services (ACS), Docker for Windows, Docker on Windows, Visual Studio Tools for Docker – Microsoft hat die durch Docker populär gewordene Containertechnologie lieb gewonnen. 

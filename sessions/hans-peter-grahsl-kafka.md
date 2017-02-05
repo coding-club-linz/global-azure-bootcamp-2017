@@ -5,7 +5,7 @@ title: Kafka HDInsight - OpenSource Messaging & Stream Processing mit Azure
 speaker: Hans-Peter Grahsl
 speaker-id: hans-peter-grahsl
 room: TBD
-slot: S0900
+slot: S1000
 ---
 
 Apache Kafka ist eine verteilte, skalierbare und hochverfügbare Messaging Platform. Mit Kafka kann ein bereites Spektrum von Anwendungsfällen realisiert werden, weshalb es sich über die letzten Jahre als Herzstück vieler unternehmensweiter Datenarchitekturen etablieren konnte. Der Einsatz reicht von einfachen Message Queues bis hin zu echtzeitnahen Stream Processing Lösungen, ohne dabei auf andere schwergewichtige Frameworks od. Technologien des BigData Ökosystem-Dschungels angewiesen zu sein.

@@ -1,7 +1,7 @@
 ---
 page-category: sponsor
 title: HATAHET
-image: /assets/logo-hatahet.jpg
+image: logo-hatahet.jpg
 ---
 
 **HATAHET productivity solutions GmbH**<br/>

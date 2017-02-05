@@ -1,7 +1,7 @@
 ---
 page-category: sponsor
 title: ANECON
-image: /assets/logo-anecon.png
+image: logo-anecon.png
 ---
 
 **ANECON Software Design und Beratung GmbH**<br/>
