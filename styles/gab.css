@@ -1,5 +1,30 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 50px;
+}
+
 .jumbotron {
-    background-image: url(/assets/Audience-Transparent.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/assets/Audience.jpg);
+    background-position: center top;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #000!important;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    line-height: 48px;
+    background-color: #ddd;
 }
 
 img.float-right {

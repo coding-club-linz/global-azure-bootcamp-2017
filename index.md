@@ -1,8 +1,7 @@
 ---
 layout: default
+showJumbotron: true
 ---
-
-{% include jumbotron.html %}
 
 <div class="row">
 <div class="col-sm" markdown="1">
