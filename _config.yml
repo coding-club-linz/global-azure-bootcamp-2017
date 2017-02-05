@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gab-at-2017.github.io" # the base hostname & protocol for your site
 twitter_username: CoderDojoLinz
 github_username:  CoderDojo-Linz
+baseurl: /global-azure-bootcamp-2017
 
 # Build settings
 markdown: kramdown
