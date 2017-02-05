@@ -18,6 +18,12 @@ body {
     background-color: #000!important;
 }
 
+@media (max-width: 575px){
+    .navbar > .container {
+        width: 100%;
+    }
+}
+
 .footer {
     position: absolute;
     bottom: 0;
