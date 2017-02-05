@@ -1,11 +1,11 @@
 ---
 layout: session
 page-category: session
-title: Logic Apps
-speaker: Roman Schacherl
-speaker-id: roman-schacherl
+title: Power BI
+speaker: Wolfgang Strasser
+speaker-id: wolfgang-strasser
 room: TBD
-slot: S1400
+slot: S1100
 ---
 
 Detaillierte Sessionbeschreibung folgt...
