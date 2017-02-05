@@ -2,8 +2,10 @@
 layout: speaker
 page-category: speaker
 title: Hans-Peter Grahsl
-company: NETCONOMY Software & Consulting
+company: Entwickler & Berater - Netconomy - FH CAMPUS 02
 image: hans-peter-grahsl.jpg
 ---
 
-Hans-Peter Grahsl arbeitet derzeit als Technical Trainer respektive IT Coach im Umfeld der Entwicklung großer e-Commerce Lösungen bei NETCONOMY Software & Consulting GmbH in Graz. Weiters unterrichtet er seit mehr als 4 Jahren für die Studienrichtung Informationstechnologien & Wirtschaftsinformatik an der FH CAMPUS 02. Er hat Software Entwicklung & Wirtschaft an der Technischen Universität Graz studiert und sich parallel dazu selbstständig gemacht. Seit über 10 Jahren ist Hans-Peter als Einzelunternehmer tätig und unterstützt dabei Kunden diverser Branchen bei Software-Projekten als Entwickler und Berater.
+Hans-Peter Grahsl arbeitet im Java-Bereich als Technical Trainer und ist für das interne Education Department bei [Netconomy Software & Consulting GmbH](https://www.netconomy.net) in Graz verantwortlich. Weiters unterstützt er Kunden als selbstständiger Trainer und Berater bei der Konzeption und Umsetzung von on-premise oder cloud-basierten Datenarchitekturen im NoSQL Umfeld. Nebenberuflich unterrichtet er im Fachbereich Software Engineering an der [FH CAMPUS 02](https://www.campus02.at).
+
+Follow [@hpgrahsl](https://www.twitter.com/hpgrahsl) on Twitter
