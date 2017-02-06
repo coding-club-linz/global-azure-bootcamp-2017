@@ -5,7 +5,7 @@ title: Einführung in Azure Machine Learning
 speaker: Rina Ahmed
 speaker-id: rina-ahmed
 room: TBD
-slot: S0900
+slot: S1500
 ---
 
 Detaillierte Sessionbeschreibung folgt...
