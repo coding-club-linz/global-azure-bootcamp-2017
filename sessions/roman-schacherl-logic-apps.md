@@ -1,11 +1,12 @@
 ---
 layout: session
 page-category: session
-title: Logic Apps
+title: Lego mit Logic
 speaker: Roman Schacherl
 speaker-id: roman-schacherl
 room: TBD
 slot: S1400
 ---
+Irgendwann wird Software Entwicklung wie Legospielen funktionieren: fertige Bausteine mit standardisierten Schnittstellen werden zusammengebaut und ergeben am Ende ein sinnvolles Ganzes. Soweit die Theorie.
 
-Detaillierte Sessionbeschreibung folgt...
+Mit Azure Logic Apps wird ein Teil des Traums war: eigene und fremde APIs können mittels eines grafischen Designers verbunden werden und bilden so durchaus komplexe Workflows. Roman Schacherl zeigt mit vielen praxisnahen Live-Demos die Funktionsweise und den Stand der Technik.
