@@ -8,6 +8,6 @@ layout: default
 
         <img class="rounded float-right" src="{{ site.baseurl }}/assets/{{ page.image }}" alt="{{ page.title}} Logo" />
 
-	    {{ page.content }}
+	    {{ page.content | markdownify }}
 	{% endif %}
 {% endfor %}
