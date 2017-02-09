@@ -6,4 +6,4 @@ company: Microsoft
 image: rina-ahmed.jpg
 ---
 
-Rina Ahmed is Technical Evangelist for Windows Phone. Before working at Microsoft, Rina was a database developer at UNIDO. Rina studied Business Informatics at the University of Vienna and Vienna University of Technology.
+Rina Ahmed is Technical Evangelist for Microsoft Azure at the Developer Experience & Evangelism Group at Microsoft Austria. Currently she is specialized on cloud solutions but also has experience with Windows 10 development and cross-plattform mobile app frameworks.
