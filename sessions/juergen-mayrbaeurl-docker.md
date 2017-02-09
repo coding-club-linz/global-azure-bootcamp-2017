@@ -2,8 +2,8 @@
 layout: session
 page-category: session
 title: Docker im Microsoft-Universum
-speaker: Rainer Stropek
-speaker-id: rainer-stropek
+speaker: Jürgen Mayrbäurl
+speaker-id: juergen-mayrbaeurl
 room: TBD
 slot: S0900
 ---
