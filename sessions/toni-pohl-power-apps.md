@@ -8,4 +8,4 @@ room: TBD
 slot: S1300
 ---
 
-Turn your data into apps. Create personalized apps that bring together the services you use every day based on data that you specify. Explore how PowerApps and their data sources work and how to customize it to automate many small tasks in your organization. Learn how to use PowerApps and Flow / Logic Apps in this session.
+PowerApps und Flow stellen ein modernes Framework dar, um Aufgaben und Workflows im Unternehmen (besser) zu automatisieren. In diesem Vortrag geht es um die Funktionsweise von PowerApps und Flow und Logic Apps und wie man eigene Datasources in PowerApps verwenden kann. Die Demos zeigen, wie man eigene PowerApps baut, welche Möglichkeiten es gibt und wie Tasks strukturiert abgebildet werden können. Natürlich geht es auch um eigene APIs und wie man zusätzliche Services verwenden kann. Diese Session liefert das PowerApps und Flow Rundum Paket für eigene Apps im Microsoft Workflow Framework!
