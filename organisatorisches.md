@@ -30,5 +30,5 @@ Da sich der Wissensturm direkt neben dem Linzer Hauptbahnhof befindet, empfehlen
 
 ## Verpflegung
 
-Dank unserer [Sponsoren](sponsoren.html) können wir in den Pausen am Vormittag und Nachmittag Snacks und Getränke anbieten. Auch für ein warmes Mittagessen ist gesorgt.
+Dank unserer [Sponsoren]({{ site.baseurl }}/sponsoren.html) können wir in den Pausen am Vormittag und Nachmittag Snacks und Getränke anbieten. Auch für ein warmes Mittagessen ist gesorgt.
 
