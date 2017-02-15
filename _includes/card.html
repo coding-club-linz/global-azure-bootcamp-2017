@@ -1,8 +1,13 @@
-<div class="card">
+<div class="card" onclick="location.href='{{ site.baseurl }}{{ include.url }}'">
     <div class="card-block">
-        <h4 class="card-title">{{ include.title }}</h4>
-        <h6 class="card-subtitle mb-2 text-muted">Sprecher: {{ include.speaker }}</h6>
-        <h6 class="card-subtitle mb-2 text-muted">Raum: {{ include.room }}</h6>
+        <h4 class="card-title"></h4>
+        <p><b>{{ include.title }}</b></p>
+        <p>
+            Sprecher: <a href="{{ site.baseurl }}/vortragende/{{ include.speaker-id }}.html">{{ include.speaker }}</a><br/>
+            Raum: {{ include.room }}
+        </p>
+    </div>
+    <div class="card-footer">
         <a href="{{ site.baseurl }}{{ include.url }}" class="card-link">Details</a>
     </div>
 </div>
