@@ -76,3 +76,13 @@ img.speaker {
     text-align: right;
     border: none;
 }
+
+@media (max-width: 575px){
+    .card-deck {
+        margin-right: 0;
+    }
+
+    .card {
+        margin-right: 0!important;
+    }
+}
