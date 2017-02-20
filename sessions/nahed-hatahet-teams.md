@@ -1,7 +1,7 @@
 ---
 layout: session
 page-category: session
-title: Microsoft Teams um smarte Bots erweitern – Microsoft Teams, das Azure Bot Service und Microsoft Bot Framework (Preview)
+title: Microsoft Teams um smarte Bots erweitern
 speaker: Nahed Hatahet
 speaker-id: nahed-hatahet
 room: TBD
