@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign pages = (site.pages | sort: "page-category" | reverse | where_exp: "page", "page.page-category == 'session' or page.page-category == 'junior-session'")  %}
+{% assign pages = (site.pages | sort: "page-category" | reverse | where_exp: "page", "page.page-category contains 'session'")  %}
 
 # Programm
 
