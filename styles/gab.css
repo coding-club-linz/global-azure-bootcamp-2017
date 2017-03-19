@@ -9,9 +9,16 @@ body {
 }
 
 .jumbotron {
-    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/global-azure-bootcamp-2017/assets/Audience.jpg);
     background-position: center top;
     color: #fff;
+}
+
+.jumbotron-pro {
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/global-azure-bootcamp-2017/assets/Audience.jpg);
+}
+
+.jumbotron-junior {
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/global-azure-bootcamp-2017/assets/Junior-Audience.jpg);
 }
 
 .navbar {

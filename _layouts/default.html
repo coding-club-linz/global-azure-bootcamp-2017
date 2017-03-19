@@ -34,6 +34,9 @@
     {% if page.showJumbotron %}
     {% include jumbotron.html %}
     {% endif %}
+    {% if page.showJuniorJumbotron %}
+    {% include junior-jumbotron.html %}
+    {% endif %}
 
     <div class="container">
         {{ content }}
