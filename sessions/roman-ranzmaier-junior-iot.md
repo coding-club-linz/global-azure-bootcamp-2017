@@ -1,6 +1,6 @@
 ---
 layout: session
-page-category: session
+page-category: junior-session
 title: Erste Schritte im Internet of Things
 speaker: Roman Ranzmaier
 speaker-id: roman-ranzmaier

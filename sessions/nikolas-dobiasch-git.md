@@ -1,6 +1,6 @@
 ---
 layout: session
-page-category: session
+page-category: junior-session
 title: Quellcode sicher aufbewahren mit Git
 speaker: Nikolas Dobiasch
 speaker-id: nikolas-dobiasch

@@ -65,6 +65,12 @@ img.speaker {
     max-width: 200px;
 }
 
+.program h2 {
+    background-color: #e0e0e0;
+    padding: 5px 20px;
+    font-size: 1.5rem;
+}
+
 .card-deck {
     margin-right: -30px;
 }
@@ -73,6 +79,11 @@ img.speaker {
     margin-left: 0!important;
     margin-right: 30px!important;
     margin-top: 10px;
+    min-width: 220px;
+}
+
+.junior-session {
+    font-size: 0.8rem;
 }
 
 .card:hover {
@@ -80,8 +91,13 @@ img.speaker {
 }
 
 .card-footer {
-    text-align: right;
+    text-align: left;
     border: none;
+}
+
+.card-footer .details {
+    float: right;
+    text-align: right;
 }
 
 @media (max-width: 575px){

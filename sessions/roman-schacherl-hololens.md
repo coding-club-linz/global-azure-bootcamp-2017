@@ -1,6 +1,6 @@
 ---
 layout: session
-page-category: session
+page-category: junior-session
 title: Hololens zum Ausprobieren
 speaker: Roman Schacherl
 speaker-id: roman-schacherl

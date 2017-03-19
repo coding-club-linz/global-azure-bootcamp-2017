@@ -4,10 +4,14 @@
         <p><b>{{ include.title }}</b></p>
         <p>
             Sprecher: <a href="{{ site.baseurl }}/vortragende/{{ include.speaker-id }}.html">{{ include.speaker }}</a><br/>
-            Raum: {{ include.room }}
+            Raum: {{ include.room }}<br/>
+            
         </p>
     </div>
     <div class="card-footer">
-        <a href="{{ site.baseurl }}{{ include.url }}" class="card-link">Details</a>
+        {% if include.page-category == "junior-session" %}
+        <span class="badge badge-success junior-session">Junior Bootcamp</span>
+        {% endif %}
+        <span class="details"><a href="{{ site.baseurl }}{{ include.url }}" class="card-link">Details</a></span>
     </div>
 </div>

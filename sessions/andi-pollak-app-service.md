@@ -1,6 +1,6 @@
 ---
 layout: session
-page-category: session
+page-category: junior-session
 title: Dynamische Webseiten mit Azure App Service
 speaker: Andi Pollak
 speaker-id: andi-pollak

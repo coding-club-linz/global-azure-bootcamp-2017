@@ -1,6 +1,6 @@
 ---
 layout: session
-page-category: session
+page-category: junior-session
 title: Java Fundamentals
 speaker: Martin Gutenbrunner
 speaker-id: martin-gutenbrunner
