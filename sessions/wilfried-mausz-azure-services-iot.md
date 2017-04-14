@@ -4,7 +4,7 @@ page-category: session
 title: Azure Services für IoT
 speaker: Wilfried Mausz
 speaker-id: wilfried-mausz
-room: TBD
+room: 15.06
 slot: S1400
 ---
 

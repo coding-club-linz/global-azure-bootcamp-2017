@@ -4,7 +4,7 @@ page-category: session
 title: Serverless mit Azure Functions
 speaker: Rainer Stropek
 speaker-id: rainer-stropek
-room: TBD
+room: 15.04
 slot: S1500
 ---
 

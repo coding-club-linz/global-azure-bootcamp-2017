@@ -4,7 +4,7 @@ page-category: session
 title: Microsoft Teams um smarte Bots erweitern
 speaker: Nahed Hatahet
 speaker-id: nahed-hatahet
-room: TBD
+room: 15.06
 slot: S1000
 ---
 

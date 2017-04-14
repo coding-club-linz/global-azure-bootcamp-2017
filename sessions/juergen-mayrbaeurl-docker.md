@@ -4,7 +4,7 @@ page-category: session
 title: Docker im Microsoft-Universum
 speaker: Jürgen Mayrbäurl
 speaker-id: juergen-mayrbaeurl
-room: TBD
+room: 15.06
 slot: S0900
 ---
 

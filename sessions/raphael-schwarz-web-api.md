@@ -4,7 +4,7 @@ page-category: session
 title: Optimierung Datenintensiver APIs
 speaker: Raphael Schwarz
 speaker-id: raphael-schwarz
-room: TBD
+room: 10.02
 slot: S1500
 ---
 

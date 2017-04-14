@@ -4,7 +4,7 @@ page-category: session
 title: Power BI – DAS neue BI Tool von Microsoft!?
 speaker: Wolfgang Strasser
 speaker-id: wolfgang-strasser
-room: TBD
+room: 15.04
 slot: S0900
 ---
 

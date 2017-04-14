@@ -4,7 +4,7 @@ page-category: session
 title: Testumgebungen in der Cloud
 speaker: Maximilian Wallisch
 speaker-id: maximilian-wallisch
-room: TBD
+room: 15.05
 slot: S1300
 ---
 

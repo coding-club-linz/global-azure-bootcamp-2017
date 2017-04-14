@@ -4,7 +4,7 @@ page-category: session
 title: DevOps mit Docker - Praxisbericht Usersnap
 speaker: Martin Sereinig
 speaker-id: martin-sereinig
-room: TBD
+room: 15.04
 slot: S1100
 ---
 

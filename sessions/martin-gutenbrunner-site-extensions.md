@@ -4,7 +4,7 @@ page-category: session
 title: Azure Site Extensions – Die App hinter der App
 speaker: Martin Gutenbrunner
 speaker-id: martin-gutenbrunner
-room: TBD
+room: 15.05
 slot: S1400
 ---
 

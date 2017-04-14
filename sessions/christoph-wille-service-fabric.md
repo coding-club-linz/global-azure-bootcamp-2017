@@ -4,7 +4,7 @@ page-category: session
 title: Service Fabric - Nicht nur für Azure
 speaker: Christoph Wille
 speaker-id: christoph-wille
-room: TBD
+room: 10.02
 slot: S1100
 ---
 

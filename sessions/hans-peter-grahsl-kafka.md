@@ -4,7 +4,7 @@ page-category: session
 title: Kafka HDInsight - OpenSource Messaging & Stream Processing mit Azure
 speaker: Hans-Peter Grahsl
 speaker-id: hans-peter-grahsl
-room: TBD
+room: 15.05
 slot: S1000
 ---
 

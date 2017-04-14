@@ -4,7 +4,7 @@ page-category: session
 title: PowerApps for Power Users
 speaker: Toni Pohl
 speaker-id: toni-pohl
-room: TBD
+room: 10.02
 slot: S1300
 ---
 

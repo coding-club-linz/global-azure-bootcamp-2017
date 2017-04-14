@@ -4,7 +4,7 @@ page-category: junior-session
 title: Arbeiten wie die Profis mit Open Source und Common Creative
 speaker: Magdalena Reiter
 speaker-id: magdalena-reiter
-room: TBD
+room: 10.07
 slot: S0900
 ---
 

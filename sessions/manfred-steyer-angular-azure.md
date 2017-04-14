@@ -4,7 +4,7 @@ page-category: session
 title: Angular und Azure
 speaker: Manfred Steyer
 speaker-id: manfred-steyer
-room: TBD
+room: 15.04
 slot: S1300
 ---
 

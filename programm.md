@@ -54,6 +54,19 @@ layout: default
 
 <h2>12:00 - 12:45 Mittagspause</h2>
 
+<div class="card-deck">
+{% assign slotPages = (pages | where: "slot", "S1200") %}
+{% for page in slotPages %}
+        {% capture title %}{{ page.title }}{% endcapture %}
+        {% capture speaker %}{{ page.speaker }}{% endcapture %}
+        {% capture speaker-id %}{{ page.speaker-id }}{% endcapture %}
+        {% capture room %}{{ page.room }}{% endcapture %}
+        {% capture url %}{{ page.url }}{% endcapture %}
+        {% capture page-category %}{{ page.page-category }}{% endcapture %}
+        {% include card.html title=title speaker=speaker speaker-id=speaker-id room=room url=url page-category=page-category  %}
+{% endfor %}
+</div>
+
 <h2>12:45 bis 13:35</h2>
 
 <div class="card-deck">

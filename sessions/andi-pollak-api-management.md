@@ -4,7 +4,7 @@ page-category: session
 title: Azure API Management
 speaker: Andi Pollak
 speaker-id: andi-pollak
-room: TBD
+room: 10.02
 slot: S1400
 ---
 

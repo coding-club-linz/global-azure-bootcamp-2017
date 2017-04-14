@@ -4,7 +4,7 @@ page-category: session
 title: Überlasst das Lernen den Maschinen
 speaker: Markus Ehrenmüller-Jensen
 speaker-id: markus-ehrenmueller-jensen
-room: TBD
+room: 10.02
 slot: S0900
 ---
 

@@ -4,7 +4,7 @@ page-category: session
 title: Azure IoT Hub - Geräteverwaltung mit der Cloud
 speaker: Roman Ranzmaier
 speaker-id: roman-ranzmaier
-room: TBD
+room: 10.02
 slot: S1000
 ---
 

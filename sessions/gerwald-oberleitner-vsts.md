@@ -4,7 +4,7 @@ page-category: session
 title: VSTS – DevOps und Mobile DevOps Update
 speaker: Gerwald Oberleitner
 speaker-id: gerwald-oberleitner
-room: TBD
+room: 15.05
 slot: S1100
 ---
 
