@@ -70,7 +70,7 @@ layout: default
 <h2>11:10 bis 12:00</h2>
 
 <div class="card-deck">
-{% assign slotPages = (pages | where: "slot", "S1100") %}
+{% assign slotPages = (sortedPages | where: "slot", "S1100") %}
 {% for page in slotPages %}
         {% capture title %}{{ page.title }}{% endcapture %}
         {% capture speaker %}{{ page.speaker }}{% endcapture %}
@@ -87,7 +87,7 @@ layout: default
 </h2>
 
 <div class="card-deck">
-{% assign slotPages = (pages | where: "slot", "S1200") %}
+{% assign slotPages = (sortedPages | where: "slot", "S1200") %}
 {% for page in slotPages %}
         {% capture title %}{{ page.title }}{% endcapture %}
         {% capture speaker %}{{ page.speaker }}{% endcapture %}
@@ -102,7 +102,7 @@ layout: default
 <h2>12:45 bis 13:35</h2>
 
 <div class="card-deck">
-{% assign slotPages = (pages | where: "slot", "S1300") %}
+{% assign slotPages = (sortedPages | where: "slot", "S1300") %}
 {% for page in slotPages %}
         {% capture title %}{{ page.title }}{% endcapture %}
         {% capture speaker %}{{ page.speaker }}{% endcapture %}
@@ -121,7 +121,7 @@ layout: default
 <h2>13:45 bis 14:35</h2>
 
 <div class="card-deck">
-{% assign slotPages = (pages | where: "slot", "S1400") %}
+{% assign slotPages = (sortedPages | where: "slot", "S1400") %}
 {% for page in slotPages %}
         {% capture title %}{{ page.title }}{% endcapture %}
         {% capture speaker %}{{ page.speaker }}{% endcapture %}
@@ -140,7 +140,7 @@ layout: default
 <h2>14:45 bis 15:35</h2>
 
 <div class="card-deck">
-{% assign slotPages = (pages | where: "slot", "S1500") %}
+{% assign slotPages = (sortedPages | where: "slot", "S1500") %}
 {% for page in slotPages %}
         {% capture title %}{{ page.title }}{% endcapture %}
         {% capture speaker %}{{ page.speaker }}{% endcapture %}
@@ -159,7 +159,7 @@ layout: default
 <h2>15:45 bis 16:00</h2>
 
 <div class="card-deck">
-{% assign slotPages = (pages | where: "slot", "S1600") %}
+{% assign slotPages = (sortedPages | where: "slot", "S1600") %}
 {% for page in slotPages %}
         {% capture title %}{{ page.title }}{% endcapture %}
         {% capture speaker %}{{ page.speaker }}{% endcapture %}
