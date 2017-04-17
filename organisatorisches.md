@@ -24,5 +24,7 @@ Da sich der Wissensturm direkt neben dem Linzer Hauptbahnhof befindet, empfehlen
 
 ## Verpflegung
 
-Dank unserer [Sponsoren]({{ site.baseurl }}/sponsoren.html) können wir in den Pausen am Vormittag und Nachmittag Snacks und Getränke anbieten. Auch für ein warmes Mittagessen ist gesorgt.
+**Reguläres GAB**: Dank unserer [Sponsoren]({{ site.baseurl }}/sponsoren.html) können wir in den Pausen am Vormittag und Nachmittag Snacks und Getränke anbieten. Auch für ein warmes Mittagessen ist gesorgt.
+
+**Junior Bootcamp**: Das Junior Bootcamp dauert von 9:00-12:00 Uhr. Dank unseres Sponsors [PASS Austria](http://austria.pass.org/) gibt es in den Pausen Getränke und Snacks.
 
