@@ -71,6 +71,13 @@ img.speaker {
     font-size: 1.5rem;
 }
 
+.program > h2 > p {
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: normal;
+}
+
 .card-deck {
     margin-right: -30px;
 }

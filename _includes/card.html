@@ -4,7 +4,7 @@
         <p><b>{{ include.title }}</b></p>
         <p>
             Sprecher: <a href="{{ site.baseurl }}/vortragende/{{ include.speaker-id }}.html">{{ include.speaker }}</a><br/>
-            Raum: {{ include.room }}<br/>
+            Raum: {{ include.room }},  {% if include.room contains "15." %}15{%else%}10{% endif %}. Stock<br/>
             
         </p>
     </div>
