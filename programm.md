@@ -63,7 +63,7 @@ layout: default
 {% endfor %}
 </div>
 
-<h2>10:50 - 11:20
+<h2>10:50 - 11:10
 <p>Kaffee und Getränke im 15. Stock</p>
 </h2>
 
